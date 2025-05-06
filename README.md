@@ -1,6 +1,77 @@
-# FurnitureLab - 3D Furniture E-commerce
+# Team Leader - Nipuni
 
-A modern e-commerce platform for furniture shopping with interactive 3D visualization capabilities. Built with React.js, Vite, Tailwind CSS, and React Three Fiber.
+## Role and Responsibilities
+
+- Project Lead and Technical Architecture
+- Project Setup and Configuration
+- Main Application Structure and Routing
+- Integration Management
+- Code Review and Quality Assurance
+- Deployment Management
+
+## Components and Features Handled
+
+- Project Configuration Files (package.json, vite.config.js, etc.)
+- Main Application Structure (App.jsx, main.jsx)
+- Core Routing Setup
+- Project Documentation
+- Build and Deployment Configuration
+- Core Application State Management
+
+## Project Overview
+
+This is a 3D Furniture E-commerce platform built with React.js, Vite, and modern web technologies. As the project lead, I was responsible for:
+
+### Technical Architecture
+
+- Setting up the project structure and build configuration
+- Implementing the core application architecture
+- Managing dependencies and project configuration
+- Establishing coding standards and best practices
+
+### Integration Management
+
+- Coordinating integration of features from team members
+- Ensuring consistent code quality across the project
+- Managing version control and deployment workflow
+
+### Core Development
+
+- Implementing the main application structure
+- Setting up routing and navigation flow
+- Managing build and deployment configuration
+
+### Project Management
+
+- Task distribution and team coordination
+- Code review and quality assurance
+- Technical documentation
+- Deployment strategy
+
+## Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Modern JavaScript (ES6+)
+
+## Project Structure (Core Components)
+
+```
+src/
+├── App.jsx           # Main application component
+├── main.jsx         # Application entry point
+├── index.css        # Global styles
+└── pages/           # Core application pages
+```
+
+## Build and Development
+
+- Development server configuration
+- Production build setup
+- Deployment configuration
+- Performance optimization
 
 ## Features
 
@@ -23,17 +94,6 @@ A modern e-commerce platform for furniture shopping with interactive 3D visualiz
 - Regular User:
   - Email: user@example.com
   - Password: user
-
-## Technologies Used
-
-- React.js
-- Vite
-- Tailwind CSS
-- React Three Fiber (R3F)
-- React Router DOM
-- Framer Motion
-- Heroicons
-- Context API for state management
 
 ## Prerequisites
 
